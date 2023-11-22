@@ -1,3 +1,2 @@
 # deepLinkTest
-[cash_in](solwallet://link?action=open_screen&screen=cash_in)
-[wiki](https://www.wikipedia.org/)
+[Airtime](solwallet://link?action=open_screen&screen=airtime)
