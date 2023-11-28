@@ -37,6 +37,8 @@
 
 [Confirmation letter](solwallet://link?action=open_screen&screen=confirmation_letter)
 
+[Apps](https://devsolmate.onelink.me/sMBn/e0ditry7)
+
 [Funeral certificate](solwallet://link?action=open_screen&screen=funeral_certificate)
 
 [Account statement](solwallet://link?action=open_screen&screen=account_statement)
