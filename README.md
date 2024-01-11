@@ -46,3 +46,5 @@
 [Gift cards/Service vouchers](solwallet://link?action=open_screen&screen=gift_card)
 
 [order details 999](solwallet://link?action=open_screen&screen=solmarket_order&order_uid=RACN8X-58856)
+
+[solmarket](solwallet://link?action=open_screen&screen=solmarket)
