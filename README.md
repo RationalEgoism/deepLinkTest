@@ -50,3 +50,5 @@
 [solmarket](solwallet://link?action=open_screen&screen=solmarket)
 
 [solmobile](solwallet://link?action=open_screen&screen=solmobile_registration)
+
+[solmobile_transfer_rica](solwallet://link?action=open_screen&screen=solmobile_registration&is_number_transfer=true)
