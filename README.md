@@ -51,4 +51,4 @@
 
 [solmobile](solwallet://link?action=open_screen&screen=solmobile_registration)
 
-[solmobile_transfer_rica](solwallet://link?action=open_screen&screen=solmobile_registration&is_number_transfer=true)
+[solmobile_transfer_rica](solwallet://link?action=open_screen&screen=solmobile_barcode_scan&is_number_transfer=true)
