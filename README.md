@@ -56,3 +56,5 @@
 [solmobile_transfer_phone_registration](solwallet://link?action=open_screen&screen=solmobile_barcode_scan&is_number_transfer=true)
 
 [solmobile_new_phone_registration](solwallet://link?action=open_screen&screen=solmobile_barcode_scan&is_number_transfer=false)
+
+[freshchat](solwallet://link?action=open_screen&screen=chat)
