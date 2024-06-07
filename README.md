@@ -1,3 +1,5 @@
+[link](https://rationalegoism.github.io/deepLinkTest/)
+
 # deepLinkTest
 [Airtime](solwallet://link?action=open_screen&screen=airtime)
 
