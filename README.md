@@ -63,4 +63,6 @@
 
 [account_details](solwallet://link?action=open_screen&screen=account_details&type=sol_account&id=8771)
 
+[account_details_virt_card](solwallet://link?action=open_screen&screen=account_details&type=ukheshe_virt_card&id=504)
+
 [account_details_wrong_id](solwallet://link?action=open_screen&screen=account_details&type=sol_account&id=87711)
