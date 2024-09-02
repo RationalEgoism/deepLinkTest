@@ -58,3 +58,6 @@
 [solmobile_new_phone_registration](solwallet://link?action=open_screen&screen=solmobile_barcode_scan&is_number_transfer=false)
 
 [freshchat](solwallet://link?action=open_screen&screen=chat)
+
+27999999999
+[account_details](solwallet://link?action=open_screen&screen=account_details&type=sol_account&id=8771)
