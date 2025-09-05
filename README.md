@@ -71,4 +71,4 @@
 
 [payat](solwallet://link?action=open_screen&screen=payat)
 
-[payat](solwallet://link?action=open_screen&screen=limits)
+[limits](solwallet://link?action=open_screen&screen=limits)
